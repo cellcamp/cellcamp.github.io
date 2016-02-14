@@ -95,23 +95,49 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-.jumbotron { 
-    background: url("../img/cellcamp.jpg") no-repeat center center;
-    min-height: 100%;
-      -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.accueil { 
+    background-image: url("../img/cellcamp.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    /*background-color: rgba(2,2,2,0.5);*/
+
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+    min-height: 0.4vh;
     text-shadow:2px 2px 2px white  ;
-    height: 80%;
+}
+
+.accueil h1 { 
+  font-size: 5rem
+}
+.accueil p { 
+  font-size: 3rem;
+  color: #333;
+}
+
+section { 
+  padding-top: 2%;
+  padding-bottom: 1%;
+
+}
+
+
+.projets .thumbnail img{ 
+
 }
 
 
 
-
-
+footer{ 
+  background-color: #555;
+  padding:4rem;
+  color:white;
+}
 
 
 
