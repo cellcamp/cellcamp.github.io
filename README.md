@@ -12,5 +12,5 @@ Main web of cellcamp
 
     xavier -- [@XavierLava](https//twitter.com/xavierlava)
     Benoit -- [@Balessan](https://twitter.com/Balessan)
-	Nicolas --
-	Joris --
+	Nicolas -- 
+	Joris -- [@jorisrenaud](https://twitter.com/jorisrenaud)
