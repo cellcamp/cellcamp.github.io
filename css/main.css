@@ -102,6 +102,7 @@ p {
   text-align:justify;
 }
 
+/** HEADER  **/
 .accueil { 
     background-image: url("../img/header.jpg");
     background-position: 50% 50%;
@@ -132,6 +133,7 @@ p {
   color: #003480;
 }
 
+/** CELLCAMP DESCRITPION  **/
 .presentation { 
   padding-top: 5%;
   padding-bottom: 1%;
@@ -141,19 +143,50 @@ p {
   font-weight: 900;
 }
 
-
-
-
+/** PROJECTS  **/
+.sectiontitle {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-size: 5rem;
+  font-weight: 900;
+}
+.projets p {
+  font-size: 15px;
+  text-align: left;
+}
+.projets h3 {
+  font-size:4rem;
+  font-weight: 900;
+}
 .projets .thumbnail img{ 
+  height: 200px;
+}
 
+/** ORGANISATION **/
+.organisations .thumbnail img {
+  height:125px;
 }
 
 
+/** MATERIALS **/
+.materials p {
+  text-align: center;
+}
+.materials img {
+  width: 500px;
+  margin-top:20px;
+}
 
+/** FOOTER  **/
 footer{ 
-  background-color: #555;
+  background-color: #003480;
+  margin-top: 5%;
   padding:4rem;
+}
+
+footer p {
   color:white;
+  text-align: center;
 }
 
 
