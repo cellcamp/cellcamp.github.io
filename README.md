@@ -1,11 +1,5 @@
 # cellcamp.github.io
 
-## Technologies
-
-*  CSS3, HTML5
-* Apache Server Configs, jQuery, Modernizr, Normalize.css	
-* bootstrap
-
 ## Contributors
 
 * [Xavier](https//twitter.com/xavierlava)
